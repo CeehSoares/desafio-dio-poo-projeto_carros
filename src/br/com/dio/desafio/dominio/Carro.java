@@ -1,5 +1,5 @@
 package br.com.dio.desafio.dominio;
-//Teste
+
 public class Carro extends Modelo{
     private String placa;
     private int preco;

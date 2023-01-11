@@ -1,5 +1,5 @@
 package br.com.dio.desafio.dominio;
-//Test
+
 // Classe mãe
 
 public abstract class Modelo {

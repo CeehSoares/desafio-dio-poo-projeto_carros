@@ -1,5 +1,5 @@
 package br.com.dio.desafio.dominio;
-//Teste *****
+
 import java.util.LinkedHashSet;
 import java.util.Set;
 
@@ -37,15 +37,10 @@ public class Vendedor {
         //Output Vendedor1
         System.out.println( "============================================================");
         System.out.println( "Vendedor : " + this.nome);
-        System.out.println( "--------------------------------------------------");
-
-        /*System.out.println(vend1.getCarrosVendidos().size());
-        for (int i =0; i < vend1.getCarrosVendidos().size(); i++){
-            vend1.getCarrosVendidos()
-        }*/
+        System.out.println( "------------------------------");
 
         System.out.println( this.carrosVendidos);
-        System.out.println( "--------------------------------------------------");
+        System.out.println( "------------------------------");
         System.out.println( "Comissao: " + this.comissao);
         System.out.println( "============================================================");
         System.out.println();

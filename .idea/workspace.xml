@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b5f9fe-11bc-40e6-8f1f-3251e2741d2f" name="Changes" comment="Setters and Getters nas classes Carro e Loja.">
+    <list default="true" id="60b5f9fe-11bc-40e6-8f1f-3251e2741d2f" name="Changes" comment="Instanciando objetos.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Carro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Loja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Loja.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Modelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Modelo.java" afterDir="false" />
@@ -94,15 +95,22 @@
       <option name="project" value="LOCAL" />
       <updated>1673476531870</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Instanciando objetos.">
+      <created>1673477222545</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673477222545</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro commit" />
     <MESSAGE value="Primeiro commit." />
-    <MESSAGE value="Instanciando objetos." />
     <MESSAGE value="Ajuste nas classes." />
     <MESSAGE value="Setters and Getters nas classes Carro e Loja." />
-    <option name="LAST_COMMIT_MESSAGE" value="Setters and Getters nas classes Carro e Loja." />
+    <MESSAGE value="Instanciando objetos." />
+    <option name="LAST_COMMIT_MESSAGE" value="Instanciando objetos." />
   </component>
 </project>
