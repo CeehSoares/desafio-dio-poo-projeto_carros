@@ -4,11 +4,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //Input das lojas
+        //Instância das lojas
         Loja loja1 = new Loja("Tijuca","Rio de janeiro");
         Loja loja2 = new Loja("Centro","Fortaleza");
 
-        //Input carros
+        //Instância dos carros
         Carro car1 = new Carro("Ford","RHG4A78",80000,"Branco");
         car1.setModelo("EcoSport");
         Carro car2 = new Carro("Honda","PTY4A99",230000,"Preto" );
@@ -16,7 +16,7 @@ public class Main {
         Carro car3 = new Carro("Honda", "HUY4A89",130000, "Prata");
         car3.setModelo("FIT");
 
-        //Input Vendedores
+        //Instância dos Vendedores
         Vendedor vend1 = new Vendedor("Ceeh");
         Vendedor vend2 = new Vendedor("Paulo");
         Vendedor vend3 = new Vendedor("Ana");
@@ -26,7 +26,7 @@ public class Main {
         loja1.getEstoque().add(car2);
         loja2.getEstoque().add(car3);
 
-        // Def Vendedor
+        // Definindo Vendedor
         loja1.getVendedores().add(vend1);
         loja1.getVendedores().add(vend2);
         loja2.getVendedores().add(vend3);
