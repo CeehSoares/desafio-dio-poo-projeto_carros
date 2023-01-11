@@ -1,5 +1,5 @@
 package br.com.dio.desafio.dominio;
-
+//Teste
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Objects;
@@ -41,7 +41,6 @@ public class Loja {
     public Set<Vendedor> getVendedores() {
             return vendedores;
         }
-
     public void setVendedores(Set<Vendedor> vendedores) {
             this.vendedores = vendedores;
         }

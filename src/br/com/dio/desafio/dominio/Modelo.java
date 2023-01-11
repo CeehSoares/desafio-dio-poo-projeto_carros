@@ -1,5 +1,5 @@
 package br.com.dio.desafio.dominio;
-
+//Test
 // Classe mãe
 
 public abstract class Modelo {
@@ -13,6 +13,7 @@ public abstract class Modelo {
         return fabricante;
     }
     public void setFabricante(String fabricante) {
+
         this.fabricante = fabricante;
     }
     public String getModelo() {

@@ -1,5 +1,5 @@
 package br.com.dio.desafio.dominio;
-
+//Teste
 public class Carro extends Modelo{
     private String placa;
     private int preco;
@@ -38,7 +38,6 @@ public class Carro extends Modelo{
     public void setPreco(int preco) {
         this.preco = preco;
     }
-
     public Boolean getDisponivel() {
         return disponivel;
     }
