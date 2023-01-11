@@ -43,15 +43,11 @@ public class Main {
         vend1.saida();
         vend2.saida();
         System.out.println("*************************************************");
-        System.out.println("Vendas");
+        System.out.println("Comissão por Vendedor:");
         System.out.println("*************************************************");
         System.out.println(vend1.getNome() + "    " + vend1.getComissao());
         System.out.println(vend2.getNome() + "    " + vend2.getComissao());
         System.out.println(vend3.getNome() + "    " + vend3.getComissao());
-
-        //String cor =  car1.getCor();
-        //System.out.println("Loja -------------");
-        //System.out.println(loja1);
 
     }
 }
