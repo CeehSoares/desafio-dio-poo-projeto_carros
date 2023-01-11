@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b5f9fe-11bc-40e6-8f1f-3251e2741d2f" name="Changes" comment="Instanciando objetos.">
-      <change afterPath="$PROJECT_DIR$/desafio-dio-poo-projeto_carros/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio-dio-poo-projeto_carros/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio-dio-poo-projeto_carros/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio-dio-poo-projeto_carros/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio-dio-poo-projeto_carros/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio-dio-poo-projeto_carros/desafio-dio-poo-projeto_carros.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio-dio-poo-projeto_carros/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="60b5f9fe-11bc-40e6-8f1f-3251e2741d2f" name="Changes" comment="Ajuste nas classes.">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Loja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Loja.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +36,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Conceição Sobreiro/Desktop/desafio-dio-poo-projeto_carros"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Conceição Sobreiro/Desktop/desafio-dio-poo-projeto_carros&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -86,13 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673471053318</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ajuste nas classes.">
+      <created>1673476202119</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673476202119</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro commit" />
     <MESSAGE value="Primeiro commit." />
     <MESSAGE value="Instanciando objetos." />
-    <option name="LAST_COMMIT_MESSAGE" value="Instanciando objetos." />
+    <MESSAGE value="Ajuste nas classes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajuste nas classes." />
   </component>
 </project>

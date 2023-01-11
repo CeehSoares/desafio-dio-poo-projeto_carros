@@ -47,19 +47,6 @@ public class Carro extends Modelo{
     }
 
     @Override
-    /*
-    public String toString() {
-        return "Carro {" +
-                "fabricante='" + getFabricante() + '\'' +
-                ", modelo='" + getModelo() + '\'' +
-                ", preco=" + preco +
-                ", cor='" + cor + '\'' +
-                ", placa='" + placa + '\'' +
-                ", disponivel=" + disponivel +
-
-                "}";
-    } */
-
     public String toString() {
         return  getFabricante() + " " + getModelo() + "  " + cor +
                 System.lineSeparator() +
